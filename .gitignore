@@ -1,0 +1,7 @@
+# Ignore entire .idea directory
+.idea/
+
+# Ignore IDE-specific files
+*.iml
+*.iws
+*.ipr
